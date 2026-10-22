@@ -1,0 +1,1 @@
+int calculer(String niveau, boolean boursier)
